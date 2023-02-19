@@ -43,7 +43,7 @@ function App() {
              <Route exact path="/">
               <TextForm
                 showAlert={showAlert}
-                heading="Enter the text to analyze below"
+                heading=" Try TextUtils - Word Counter, Character counter, Remove extra spaces"
                 mode={mode}
               />
             </Route>
